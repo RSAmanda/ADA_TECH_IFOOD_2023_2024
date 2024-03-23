@@ -5,6 +5,10 @@ Lista dos Repositórios das notas de aulas e projetos de cada módulo do curso d
 ### Notas de Estudo
 [![Readme Card1](https://github-readme-stats.vercel.app/api/pin/?username=RSAmanda&repo=Ada_iFood_Mod01_Logica_de_programacao_1)](https://github.com/RSAmanda/Ada_iFood_Mod01_Logica_de_programacao_1)
 
+### Projeto - Chatbot de Pedidos
+[![Readme Card1](https://github-readme-stats.vercel.app/api/pin/?username=RSAmanda&repo=Chatbot_pedidos)](https://github.com/RSAmanda/Chatbot_pedidos)
+
+
 ### Projeto - Sistema de Gestão de Restaurantes
 [![Readme Card1](https://github-readme-stats.vercel.app/api/pin/?username=Grupo-B-Turma-2-Ada-VemSerTech&repo=Projeto_Mod01_Ada_VemSerTech)](https://github.com/Grupo-B-Turma-2-Ada-VemSerTech/Projeto_Mod01_Ada_VemSerTech)
 
